@@ -4,8 +4,8 @@ Tabela com os comandos que podem ser usados no GitBash que aprendi durante o cur
 
 Linha de Comando | O que faz
 ------- | ---------
-git config --global credential.helper cache | Salva credencial do GitHub temporiariamente na máquina
-git config -global credential.helper store | Salva credencial do GitHub permanentemente na máquina
+git config --global credential.helper cache | salva credencial do GitHub temporiariamente na máquina
+git config -global credential.helper store | salva credencial do GitHub permanentemente na máquina
 cat | + nome do arquivo, mostrar conteúdo do arquivo
 ls | listar arquivos do diretório
 -al | ao usar o comando ls, mostrar arquivos ocultos
