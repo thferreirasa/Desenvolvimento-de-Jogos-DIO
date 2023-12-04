@@ -14,7 +14,7 @@ Meu progresso nos cursos do Bootcamp.
 - Introdução ao Desenvolvimento e Criação de jogos **_FINALIZADO_**
 - Versionamento de código com Git e GitHub **_FINALIZADO_**
 - Criando seu primeiro repositório no GitHub para compartilhar seu progresso (Desafio de Projeto) **_FINALIZADO_**
-- Contribuindo em um projeto OpenSource no GitHub (Desafio de Projeto)
+- Contribuindo em um projeto OpenSource no GitHub (Desafio de Projeto) **_FINALIZADO_**
 
 
 ### Criando suas primeiras páginas em HTML e CSS
