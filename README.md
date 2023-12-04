@@ -38,7 +38,7 @@ Meu progresso nos cursos do Bootcamp.
 - Criando um projeto com HTML/CSS para listagem de Pokémon
 
 
-###  Aprimorando sua Lógica de Progrmação com Desafios de Código Básicos
+###  Aprimorando sua Lógica de Programação com Desafios de Código Básicos
 
 - Desafios de Código: aperfeiçoe sua lógica e pensamento computacional
 - A Jornada Heroica
