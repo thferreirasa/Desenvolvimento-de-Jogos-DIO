@@ -19,8 +19,8 @@ Meu progresso nos cursos do Bootcamp.
 
 ### Criando suas primeiras páginas em HTML e CSS
 
-- Entendendo Comunicação Client x Server
-- Introdução ao HTML na prática
+- Entendendo Comunicação Client x Server **_FINALIZADO_**
+- Introdução ao HTML na prática **_FINALIZADO_**
 - Trabalhando com Formulários em HTML
 - Estruturando seu HTML + Formatações
 - Fundamentos do CSS
